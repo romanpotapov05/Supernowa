@@ -1,3 +1,3 @@
 # Supernowa
 
-Testing
+Testing instaled lib
